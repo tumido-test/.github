@@ -16,3 +16,6 @@ orgs:
       .github:
         default_branch: main
         has_projects: true
+      issue-template-test:
+        default_branch: main
+        has_projects: false
